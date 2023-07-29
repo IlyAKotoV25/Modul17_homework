@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "SkillFactory: FR.",
     "main": "index.js",
-    "repository": "https://github.com/leonmaks/module11_homework.git",
+    "repository": "https://github.com/leonmaks/module17_homework.git",
     "scripts": {
       "test": "jest",
       "count-down-dev": "nodemon src/countDown",
